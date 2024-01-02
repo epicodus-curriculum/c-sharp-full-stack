@@ -42,10 +42,6 @@ Since then, it's become one of the most popular programming languages in the wor
 
 Microsoft created the **.NET Framework** around the same time C# was developed. A **framework** like .NET provides built-in code and functionality, which makes writing code easier and more efficient. .NET even includes a special environment for running C# applications.
 
-Microsoft created the **.NET Framework** around the same time C# was developed. A **framework** like .NET provides built-in code and functionality, which makes writing code easier and more efficient. .NET even includes a special environment for running C# applications.
-
-Microsoft created the **.NET** framework around the same time C# was developed. A **framework** like .NET provides built-in code and functionality, which makes writing code easier and more efficient. .NET even includes a special environment for running C# applications.
-
 With cross-platform development so common, Microsoft moved to combine these tools (the original .NET Framework and .NET Core) in to one cross-platform framework called ".NET". This started with .NET 5 in 2020, and now Microsoft releases a new version of the modern .NET framework every year.
 
 Note that .NET (versions 5 and up) hasn't entirely replaced the original .NET framework, but it does replace .NET Core, and it is considered the new and modern standard.
